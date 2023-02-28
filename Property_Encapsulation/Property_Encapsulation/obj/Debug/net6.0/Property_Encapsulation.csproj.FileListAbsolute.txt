@@ -1,0 +1,15 @@
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\bin\Debug\net6.0\Property_Encapsulation.exe
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\bin\Debug\net6.0\Property_Encapsulation.deps.json
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\bin\Debug\net6.0\Property_Encapsulation.runtimeconfig.json
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\bin\Debug\net6.0\Property_Encapsulation.dll
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\bin\Debug\net6.0\Property_Encapsulation.pdb
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\Property_Encapsulation.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\Property_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\Property_Encapsulation.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\Property_Encapsulation.AssemblyInfo.cs
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\Property_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\Property_Encapsulation.dll
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\refint\Property_Encapsulation.dll
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\Property_Encapsulation.pdb
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\Property_Encapsulation.genruntimeconfig.cache
+C:\Users\jainam\source\repos\Property_Encapsulation\Property_Encapsulation\obj\Debug\net6.0\ref\Property_Encapsulation.dll
