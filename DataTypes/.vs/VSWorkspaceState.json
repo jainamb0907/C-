@@ -3,6 +3,10 @@
     "",
     "\\DataTypes"
   ],
+<<<<<<< HEAD
   "SelectedNode": "\\DataTypes.sln",
+=======
+  "SelectedNode": "\\DataTypes\\Program.cs",
+>>>>>>> 72852c5 (Completed Array, Multidimentional array, jagged array)
   "PreviewInSolutionExplorer": false
 }

@@ -133,8 +133,12 @@
                 // declare variable
                 int n = 10;
 
+<<<<<<< HEAD
                 // store variable n address 
                 // location in pointer variable p
+=======
+                // store variable n address location in pointer variable p
+>>>>>>> 72852c5 (Completed Array, Multidimentional array, jagged array)
                 int* p = &n;
                 int* p1, p2; // Valid syntax
                 p1 = &n;

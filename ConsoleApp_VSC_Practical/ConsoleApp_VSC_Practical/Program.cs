@@ -40,8 +40,11 @@ namespace JsonParser
             };
             Console.WriteLine("Serialization");
             // convert to Json string by seralization of the instance of class.
+<<<<<<< HEAD
             
 
+=======
+>>>>>>> 72852c5 (Completed Array, Multidimentional array, jagged array)
 
             string stringjson = JsonConvert.SerializeObject(student1);
             Console.WriteLine(stringjson);
@@ -50,7 +53,11 @@ namespace JsonParser
             //convert to Json object by Deseralization of the instance of class.
 
             studentInfo newstudent1 = JsonConvert.DeserializeObject<studentInfo>(stringjson);
+<<<<<<< HEAD
             Console.WriteLine("Student Roll Number: "+newstudent1.Roll);
+=======
+            Console.WriteLine("Student Roll Number: " + newstudent1.Roll);
+>>>>>>> 72852c5 (Completed Array, Multidimentional array, jagged array)
             Console.WriteLine("Student Name: " + newstudent1.name);
             Console.WriteLine("Student Courses: ");
             foreach (var course in newstudent1.courses)
