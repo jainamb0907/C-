@@ -1,0 +1,15 @@
+C:\Users\jainam\source\repos\Queue_both\Queue_both\bin\Debug\net6.0\Queue_both.exe
+C:\Users\jainam\source\repos\Queue_both\Queue_both\bin\Debug\net6.0\Queue_both.deps.json
+C:\Users\jainam\source\repos\Queue_both\Queue_both\bin\Debug\net6.0\Queue_both.runtimeconfig.json
+C:\Users\jainam\source\repos\Queue_both\Queue_both\bin\Debug\net6.0\Queue_both.dll
+C:\Users\jainam\source\repos\Queue_both\Queue_both\bin\Debug\net6.0\Queue_both.pdb
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\Queue_both.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\Queue_both.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\Queue_both.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\Queue_both.AssemblyInfo.cs
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\Queue_both.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\Queue_both.dll
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\refint\Queue_both.dll
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\Queue_both.pdb
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\Queue_both.genruntimeconfig.cache
+C:\Users\jainam\source\repos\Queue_both\Queue_both\obj\Debug\net6.0\ref\Queue_both.dll

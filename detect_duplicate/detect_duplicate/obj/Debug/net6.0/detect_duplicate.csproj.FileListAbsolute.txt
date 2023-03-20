@@ -1,0 +1,15 @@
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\bin\Debug\net6.0\detect_duplicate.exe
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\bin\Debug\net6.0\detect_duplicate.deps.json
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\bin\Debug\net6.0\detect_duplicate.runtimeconfig.json
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\bin\Debug\net6.0\detect_duplicate.dll
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\bin\Debug\net6.0\detect_duplicate.pdb
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\detect_duplicate.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\detect_duplicate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\detect_duplicate.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\detect_duplicate.AssemblyInfo.cs
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\detect_duplicate.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\detect_duplicate.dll
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\refint\detect_duplicate.dll
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\detect_duplicate.pdb
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\detect_duplicate.genruntimeconfig.cache
+C:\Users\jainam\source\repos\detect_duplicate\detect_duplicate\obj\Debug\net6.0\ref\detect_duplicate.dll

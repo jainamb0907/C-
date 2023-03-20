@@ -1,0 +1,15 @@
+C:\Users\jainam\source\repos\Forloop\Forloop\bin\Debug\net6.0\Forloop.exe
+C:\Users\jainam\source\repos\Forloop\Forloop\bin\Debug\net6.0\Forloop.deps.json
+C:\Users\jainam\source\repos\Forloop\Forloop\bin\Debug\net6.0\Forloop.runtimeconfig.json
+C:\Users\jainam\source\repos\Forloop\Forloop\bin\Debug\net6.0\Forloop.dll
+C:\Users\jainam\source\repos\Forloop\Forloop\bin\Debug\net6.0\Forloop.pdb
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\Forloop.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\Forloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\Forloop.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\Forloop.AssemblyInfo.cs
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\Forloop.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\Forloop.dll
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\refint\Forloop.dll
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\Forloop.pdb
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\Forloop.genruntimeconfig.cache
+C:\Users\jainam\source\repos\Forloop\Forloop\obj\Debug\net6.0\ref\Forloop.dll
