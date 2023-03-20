@@ -1,0 +1,15 @@
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\bin\Debug\net6.0\types_of_constructor.exe
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\bin\Debug\net6.0\types_of_constructor.deps.json
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\bin\Debug\net6.0\types_of_constructor.runtimeconfig.json
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\bin\Debug\net6.0\types_of_constructor.dll
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\bin\Debug\net6.0\types_of_constructor.pdb
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\types_of_constructor.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\types_of_constructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\types_of_constructor.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\types_of_constructor.AssemblyInfo.cs
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\types_of_constructor.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\types_of_constructor.dll
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\refint\types_of_constructor.dll
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\types_of_constructor.pdb
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\types_of_constructor.genruntimeconfig.cache
+C:\Users\jainam\source\repos\types_of_constructor\types_of_constructor\obj\Debug\net6.0\ref\types_of_constructor.dll

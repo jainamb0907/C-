@@ -1,0 +1,15 @@
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\bin\Debug\net6.0\generic_Dictionary.exe
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\bin\Debug\net6.0\generic_Dictionary.deps.json
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\bin\Debug\net6.0\generic_Dictionary.runtimeconfig.json
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\bin\Debug\net6.0\generic_Dictionary.dll
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\bin\Debug\net6.0\generic_Dictionary.pdb
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\generic_Dictionary.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\generic_Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\generic_Dictionary.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\generic_Dictionary.AssemblyInfo.cs
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\generic_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\generic_Dictionary.dll
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\refint\generic_Dictionary.dll
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\generic_Dictionary.pdb
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\generic_Dictionary.genruntimeconfig.cache
+C:\Users\jainam\source\repos\generic_Dictionary\generic_Dictionary\obj\Debug\net6.0\ref\generic_Dictionary.dll

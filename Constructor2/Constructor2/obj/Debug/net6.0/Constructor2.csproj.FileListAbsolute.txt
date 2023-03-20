@@ -1,0 +1,15 @@
+C:\Users\jainam\source\repos\Constructor2\Constructor2\bin\Debug\net6.0\Constructor2.exe
+C:\Users\jainam\source\repos\Constructor2\Constructor2\bin\Debug\net6.0\Constructor2.deps.json
+C:\Users\jainam\source\repos\Constructor2\Constructor2\bin\Debug\net6.0\Constructor2.runtimeconfig.json
+C:\Users\jainam\source\repos\Constructor2\Constructor2\bin\Debug\net6.0\Constructor2.dll
+C:\Users\jainam\source\repos\Constructor2\Constructor2\bin\Debug\net6.0\Constructor2.pdb
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\Constructor2.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\Constructor2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\Constructor2.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\Constructor2.AssemblyInfo.cs
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\Constructor2.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\Constructor2.dll
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\refint\Constructor2.dll
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\Constructor2.pdb
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\Constructor2.genruntimeconfig.cache
+C:\Users\jainam\source\repos\Constructor2\Constructor2\obj\Debug\net6.0\ref\Constructor2.dll
