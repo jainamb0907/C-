@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <OutputType>Exe</OutputType>
+    <OutputType>Echoicee</OutputType>
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>Practical1_1_</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>

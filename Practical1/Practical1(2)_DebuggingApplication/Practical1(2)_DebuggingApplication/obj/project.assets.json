@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jainam\\source\\repos\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication.csproj",
+      "projectUniqueName": "C:\\Users\\jainam\\source\\repos\\Practical1\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication.csproj",
       "projectName": "Practical1(2)_DebuggingApplication",
-      "projectPath": "C:\\Users\\jainam\\source\\repos\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication.csproj",
+      "projectPath": "C:\\Users\\jainam\\source\\repos\\Practical1\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication.csproj",
       "packagesPath": "C:\\Users\\jainam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jainam\\source\\repos\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication\\obj\\",
+      "outputPath": "C:\\Users\\jainam\\source\\repos\\Practical1\\Practical1(2)_DebuggingApplication\\Practical1(2)_DebuggingApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,7 +67,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }
