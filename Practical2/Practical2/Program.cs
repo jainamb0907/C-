@@ -1,6 +1,6 @@
 ﻿namespace Practical2
 {
-    class Customer_Account
+    internal class Customer_Account
     {
         // data members of the class
         string bank_name = "HDFC";
@@ -17,16 +17,18 @@
         // Instance method to print all the members of the Customer_Account
         public void printInfo()
         {
-            Console.WriteLine("---------Customer Details---------");
-            Console.WriteLine("Bank Name: " + bank_name);
-            Console.WriteLine("Customer Name: " + customer_name);
-            Console.WriteLine("Customer Account Number: " + customer_accountNo);
+            Console.WriteLine(
+                "---------Customer Details---------\nBank Name: {0}\nCustomer Name: {1}\nCustomer Account Number: {2}",
+                bank_name,
+                customer_name,
+                customer_accountNo
+            );
         }
     }
 
     internal class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             // This would invoke parameterized constructor
             Customer_Account c_A = new Customer_Account("jainam", 1234);
