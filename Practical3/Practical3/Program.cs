@@ -11,22 +11,22 @@ namespace Practical3
             Console.WriteLine("---Inheritance---");
 
             Team team = new Team();
-            string cString = team.printInfo();
-            Console.WriteLine(cString);
+            string concateString = team.printInfo();
+            Console.WriteLine(concateString);
 
             /*---Polymorphism---*/
             Console.WriteLine("---Polymorphism---");
 
             Bird myBird = new Bird();
 
-            //Duck myDuck = new Bird();
             /*
-            Output:
-            Error	CS0266	Cannot implicitly convert type 'Practical3.Bird' to 'Practical3.Duck'. An explicit conversion exists (are you missing a cast?) At line 12
-            Reason: We can't create a base class object from derived class in c#
+            Problem statement: Duck myDuck = new Bird();
+            Output: Error	CS0266	Cannot implicitly convert type 'Practical3.Bird' to 'Practical3.Duck'. An explicit conversion exists (are you missing a cast?) At line 12
+            Reason: We can't create a base class object from derived class in C#
+            Solution: Created object of Child class "Duck" using its parent class "Bird"
             */
 
-            // Solution: Created object of Child class "Duck" using its parent class "Bird"
+
             Bird myDuck = new Duck();
 
             myBird.Voice(); // Invoking the Voice method of Bird class

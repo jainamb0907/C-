@@ -12,10 +12,10 @@ namespace Practical3
 
         public string printInfo()
         {
-            string cString = string.Concat(owner, teamName);
+            string concateString = string.Concat(owner, teamName);
             //Better
-            cString = $"concat owner and teamName: {owner} {teamName}";
-            return cString;
+            concateString = $"concat owner and teamName: {owner} {teamName}";
+            return concateString;
         }
     }
 }
