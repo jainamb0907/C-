@@ -1,2 +1,2 @@
-# C-
-C# learning with implementation
+# Visual-Studio-Community-2022
+Practical 00

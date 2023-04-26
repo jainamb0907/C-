@@ -1,0 +1,15 @@
+C:\Users\jainam\source\repos\User_input\User_input\bin\Debug\net6.0\User_input.exe
+C:\Users\jainam\source\repos\User_input\User_input\bin\Debug\net6.0\User_input.deps.json
+C:\Users\jainam\source\repos\User_input\User_input\bin\Debug\net6.0\User_input.runtimeconfig.json
+C:\Users\jainam\source\repos\User_input\User_input\bin\Debug\net6.0\User_input.dll
+C:\Users\jainam\source\repos\User_input\User_input\bin\Debug\net6.0\User_input.pdb
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\User_input.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\User_input.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\User_input.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\User_input.AssemblyInfo.cs
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\User_input.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\User_input.dll
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\refint\User_input.dll
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\User_input.pdb
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\User_input.genruntimeconfig.cache
+C:\Users\jainam\source\repos\User_input\User_input\obj\Debug\net6.0\ref\User_input.dll

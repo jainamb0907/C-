@@ -1,0 +1,15 @@
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\bin\Debug\net6.0\ref_out_in.exe
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\bin\Debug\net6.0\ref_out_in.deps.json
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\bin\Debug\net6.0\ref_out_in.runtimeconfig.json
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\bin\Debug\net6.0\ref_out_in.dll
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\bin\Debug\net6.0\ref_out_in.pdb
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\ref_out_in.csproj.AssemblyReference.cache
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\ref_out_in.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\ref_out_in.AssemblyInfoInputs.cache
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\ref_out_in.AssemblyInfo.cs
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\ref_out_in.csproj.CoreCompileInputs.cache
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\ref_out_in.dll
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\refint\ref_out_in.dll
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\ref_out_in.pdb
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\ref_out_in.genruntimeconfig.cache
+C:\Users\jainam\source\repos\ref_out_in\ref_out_in\obj\Debug\net6.0\ref\ref_out_in.dll
